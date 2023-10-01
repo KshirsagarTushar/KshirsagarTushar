@@ -1,3 +1,4 @@
+![logo](https://github.com/KshirsagarTushar/KshirsagarTushar/blob/main/GitHub%20%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tushar Kshirsagar</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
